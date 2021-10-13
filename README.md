@@ -6,8 +6,7 @@
 - 🔭 I’m currently working on PT. Exi Global Aplikasi
 - 🌱 I’m currently learning React Js, Flutter and Vue Js for develop any project.
 - 👯 I’m looking to collaborate with other developer
-- 🥅 2021 Goals: Create a public released side project!
-- ⚡ Fun fact: I love cooking, looking for a bugs and create unfinished side project 
+- ⚡ Fun fact: I like music and plants, and I have my own business as an ornamental plant seller
 
 ### Tech stack
 
